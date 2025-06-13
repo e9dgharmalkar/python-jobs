@@ -1,2 +1,2 @@
-# Python Jobs Scraper
-This repo will be used to build a tool to scrape data for Python job listings
+# Python Jobs Project
+this project collects and organizes Python job listings from various sources to help coders find jobs easily.
